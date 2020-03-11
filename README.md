@@ -1,3 +1,5 @@
+A simplified version of twitter like application created with React and Azure Serverless Functions.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
